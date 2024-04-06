@@ -1,0 +1,18 @@
+{
+ 
+    "files.associations": {
+        "stdio.h": "c",
+        "stdlib.h": "c",
+        "identifier.h": "c",
+        "bank.h": "c",
+        "account.h": "c",
+        "transactions.h": "c",
+        "functions.h": "c",
+        "accountcreation.h": "c",
+        "cstdlib": "c",
+        "login.h": "c",
+        "investments.h": "c",
+        "time.h": "c",
+        "safeprogram.h": "c"
+    }
+}
